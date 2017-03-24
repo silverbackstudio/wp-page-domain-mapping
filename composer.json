@@ -1,15 +1,15 @@
 {
     "name": "silverbackstudio/wp-page-domain-mapping",
-    "description": "Maps a domain (in WP multisites installs) to a specific Wordpress page",
+    "description": "Maps a domain (in WP multisites installs) to a specific WordPress page",
     "type": "wordpress-plugin",
     "authors": [
         {
             "name": "Brando Meniconi",
-            "email": "b.meniconi@silvebackstudio.it"
+            "email": "b.meniconi@silverbackstudio.it"
         }
     ],
     "require": {
         "php": ">=5.6",
-        "composer/installers": "v1.0.6"
+        "composer/installers": "~1.0.12",
     }
 }
